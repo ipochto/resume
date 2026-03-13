@@ -1,5 +1,5 @@
 
-<img src="photo.png" style="width: 150; height: 200;">
+<img src="photo.png" style="height: 150;">
 
 # Алёхин Алексей Валерьевич
 
