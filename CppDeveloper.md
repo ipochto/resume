@@ -76,7 +76,7 @@ https://github.com/ipochto
 Подключился к проекту в целях обучения и получения практического опыта с 2020 года.\
 С 2023 года вошёл в состав основной команды разработчиков (core team).
 
-В общей сложности было принято порядка 70 PR: [Stratagus](https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed), [Wargus](https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto), [War1gus](https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)
+В общей сложности было принято порядка 70 PR: [Stratagus PRs](https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed), [Wargus PRs](https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto), [War1gus PRs](https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)
 
 Особенности работы над данным проектом:
 - На движке уже реализовано 2 полноценные игры и все изменения приходилось вносить с сохранением обратной совместимости с ними.
