@@ -32,30 +32,7 @@ av.alyokhin@yandex.ru
 
 **Кроме того:** Обладаю лидерскими качествами, готов брать на себя инициативу и ответственность. Коммуникабельный с хорошо развитым чувством юмора.
 
-## Активности
-- Github аккаунт: [github.com/ipochto](https://github.com/ipochto)
-- Публикации: [цикл статей](https://habr.com/ru/users/alyokhin/articles/) на Habr
-- Участие в Open Source проектах:
-  * В целях обучения и получения практического опыта с 2020 года участвую
-    в разработке [`Wargus`](https://github.com/Wargus/wargus)/[`Stratagus`](https://github.com/Wargus/stratagus) - движка для 2D RTS игр,
-    который, фактически является альтернативной реализацией `WarCraft` 1 и 2.\
-    С 2023 года вошёл в состав основной команды разработчиков.\
-    Языки `C++17` и `Lua`.
-
-    Несколько крупных PR для примера: 
-    
-    `C++` ([PR418](https://github.com/Wargus/stratagus/pull/418), [PR330](https://github.com/Wargus/stratagus/pull/330), [PR732](https://github.com/Wargus/stratagus/pull/732)), `Lua` ([PR446](https://github.com/Wargus/wargus/pull/446), [PR488](https://github.com/Wargus/wargus/pull/488)), в рамках которых:
-     + Добавлена поддержка возвышенностей на карте
-     + Реализован генератор новых тайлов для отрисовки возвышенностей на основе графики из оригинальной игры
-     + Существенно переработан редактор, в т.ч. добавлена поддержка кистей и генератор мультитайловых декораций
-     + Добавлен механизм блокирования видимости
-       
-    Кроме того:
-     + Переработаны алгоритмы локального AI юнитов [PR271](https://github.com/Wargus/stratagus/pull/271)
-     + Внесено большое число мелких улучшений в кодовую базу и исправлений существующих багов
-    
-  * Реализовал text-to-speech [утилиту](https://github.com/ipochto/akhenaten-tts) для озвучивания текстов и реплик персонажей в open-source движке [Akhenaten](https://github.com/dalerank/Akhenaten).
-  * По мере необходимости вношу посильный вклад в сторонние опенсорс проекты. Из тех, что на слуху:`CMake` [PR10635](https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635)
+* По мере необходимости вношу посильный вклад в сторонние опенсорс проекты. Из тех, что на слуху:`CMake` [PR10635](https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635)
 
 ## Профессиональный опыт
 
