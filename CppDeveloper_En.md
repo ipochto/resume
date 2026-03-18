@@ -3,7 +3,7 @@
 ## Contacts
 +7(964)890-05-94  
 av.alyokhin@yandex.ru  
-https://github.com/ipochto  
+[github.com/ipochto](https://github.com/ipochto)  
 
 ---
 
@@ -56,7 +56,9 @@ Experienced in cross-platform build systems and dependency integration (`CMake`,
 ## Experience
 
 ### Stratagus | Wargus | War1gus (2020–2025)
-https://github.com/Wargus/stratagus  
+[Stratagus (GitHub)](https://github.com/Wargus/stratagus)  
+[Wargus (GitHub)](https://github.com/Wargus/wargus)  
+[War1gus (GitHub)](https://github.com/Wargus/war1gus)  
 
 Worked on an RTS engine with a large legacy codebase and strict constraints:
 - single-threaded architecture  
@@ -66,9 +68,9 @@ Worked on an RTS engine with a large legacy codebase and strict constraints:
 Core team member since 2023.  
 
 70+ PRs:
-- Stratagus: https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed  
-- Wargus: https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto  
-- War1gus: https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto  
+- Stratagus: [closed PRs by author](https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed)  
+- Wargus: [closed PRs by author](https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)  
+- War1gus: [closed PRs by author](https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)  
 
 ---
 
@@ -83,9 +85,9 @@ Designed and implemented a visibility system:
 - deterministic multiplayer behavior  
 
 PRs:
-- https://github.com/Wargus/stratagus/pull/330  
-- https://github.com/Wargus/wargus/pull/359  
-- https://github.com/Wargus/war1gus/pull/185  
+- [Stratagus PR #330](https://github.com/Wargus/stratagus/pull/330)  
+- [Wargus PR #359](https://github.com/Wargus/wargus/pull/359)  
+- [War1gus PR #185](https://github.com/Wargus/war1gus/pull/185)  
 
 (150+ commits, ~4100 LOC changed)
 
@@ -101,14 +103,14 @@ Cross-cutting system affecting multiple subsystems:
 - designed DSL and asset generator  
 
 PRs:
-- https://github.com/Wargus/stratagus/pull/418  
-- https://github.com/Wargus/wargus/pull/446  
+- [Stratagus PR #418](https://github.com/Wargus/stratagus/pull/418)  
+- [Wargus PR #446](https://github.com/Wargus/wargus/pull/446)  
 
 (170+ commits, ~5800+ LOC changed)
 
 Additional:
 - Architecture and DSL are documented in:  
-  https://github.com/Wargus/stratagus/wiki/Highgrounds-support
+  [Wiki: Highgrounds support](https://github.com/Wargus/stratagus/wiki/Highgrounds-support)
 
 ---
 
@@ -119,14 +121,14 @@ Additional:
 - UI integration  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/732
-- https://github.com/Wargus/wargus/pull/488 
+- [Stratagus PR #732](https://github.com/Wargus/stratagus/pull/732)
+- [Wargus PR #488](https://github.com/Wargus/wargus/pull/488) 
 
 (90+ commits, ~5800 LOC changed)
 
 Additional:
 - Authored documentation for creating and using brushes:  
-  https://github.com/Wargus/stratagus/wiki/Editor:-Brushes
+  [Wiki: Editor Brushes](https://github.com/Wargus/stratagus/wiki/Editor:-Brushes)
 
 ---
 
@@ -137,12 +139,12 @@ Additional:
 - RTS-like behavior  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/271  
+- [Stratagus PR #271](https://github.com/Wargus/stratagus/pull/271)  
 
 ---
 
 ### Sandboxed Lua Runtime (2026)
-https://github.com/ipochto/luaSandboxes  
+[luaSandboxes (GitHub)](https://github.com/ipochto/luaSandboxes)  
 
 Library for safe execution of untrusted Lua scripts:
 
@@ -158,12 +160,12 @@ Infrastructure:
 
 Additional:
 - Authored a technical article series describing the architecture (Habr):  
-  https://habr.com/ru/users/alyokhin/articles
+  [Habr: articles](https://habr.com/ru/users/alyokhin/articles)
 
 ---
 
 ### Akhenaten TTS Tool (2026)
-https://github.com/ipochto/akhenaten-tts  
+[akhenaten-tts (GitHub)](https://github.com/ipochto/akhenaten-tts)  
 
 CLI tool for speech generation:
 
@@ -198,10 +200,10 @@ strong systems mindset and engineering approach to problem solving.
 ## Open Source Contributions
 
 - Contribution to CMake (merge request):  
-  https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635  
+  [CMake MR !10635](https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635)  
 
 - Maintainer of packages in Arch Linux AUR:  
-  https://aur.archlinux.org/packages?O=0&SeB=m&K=ipochto  
+  [AUR: ipochto packages](https://aur.archlinux.org/packages?O=0&SeB=m&K=ipochto)  
   (build, maintenance, dependency management)
 
 ---

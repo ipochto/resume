@@ -1,15 +1,15 @@
-# Алёхин Алексей Валерьевич
+# Алёхин Алексей
 
 ## Контакты
 +7(964)890-05-94  
 av.alyokhin@yandex.ru  
-https://github.com/ipochto  
+[github.com/ipochto](https://github.com/ipochto)  
 
 ---
 
 ## Кратко о себе
 
-C++ разработчик, специализирующийся на низкоуровневых системах и системах с ограниченными ресурсами, с практическим опытом разработки игрового движка жанра RTS (стратегии в реальном времени).
+C++ разработчик, специализирующийся на низкоуровневых системах и системах с ограниченными ресурсами, с практическим опытом разработки игрового движка жанра RTS (стратегии в реальном времени).при
 
 Имею многолетний опыт разработки и внедрения инженерных систем реального времени (АСУТП), включая проектирование, программирование и руководство разработкой. Это сформировало системный подход, внимание к надёжности и глубокую инженерную проработку решений.
 
@@ -56,7 +56,9 @@ C++ разработчик, специализирующийся на низко
 ## Опыт разработки
 
 ### Stratagus | Wargus | War1gus (2020–2025)
-https://github.com/Wargus/stratagus  
+[Stratagus (GitHub)](https://github.com/Wargus/stratagus)  
+[Wargus (GitHub)](https://github.com/Wargus/wargus)  
+[War1gus (GitHub)](https://github.com/Wargus/war1gus)  
 
 Работа над RTS-движком с большим объёмом легаси кода и жёсткими ограничениями:
 - однопоточная архитектура  
@@ -66,9 +68,9 @@ https://github.com/Wargus/stratagus
 Участник основной команды с 2023 года.  
 
 70+ PRs:
-- Stratagus: https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed  
-- Wargus: https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto  
-- War1gus: https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto  
+- Stratagus: [закрытые PR автора](https://github.com/Wargus/stratagus/pulls?q=is%3Apr+author%3Aipochto+is%3Aclosed)  
+- Wargus: [закрытые PR автора](https://github.com/Wargus/wargus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)  
+- War1gus: [закрытые PR автора](https://github.com/Wargus/war1gus/pulls?q=is%3Apr+is%3Aclosed+author%3Aipochto)  
 
 ---
 
@@ -83,9 +85,9 @@ https://github.com/Wargus/stratagus
 - детерминированность в мультиплеере  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/330  
-- https://github.com/Wargus/wargus/pull/359  
-- https://github.com/Wargus/war1gus/pull/185  
+- [Stratagus PR #330](https://github.com/Wargus/stratagus/pull/330)  
+- [Wargus PR #359](https://github.com/Wargus/wargus/pull/359)  
+- [War1gus PR #185](https://github.com/Wargus/war1gus/pull/185)  
 
 (150+ коммитов, изменено ~4100 строк кода)
 
@@ -101,14 +103,14 @@ PR:
 - разработка DSL и генератора ассетов  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/418  
-- https://github.com/Wargus/wargus/pull/446  
+- [Stratagus PR #418](https://github.com/Wargus/stratagus/pull/418)  
+- [Wargus PR #446](https://github.com/Wargus/wargus/pull/446)  
 
 (170+ коммитов, изменено ~5800+ строк кода)
 
 Дополнительно:
 - Архитектуру и DSL подробно описал в документации:  
-https://github.com/Wargus/stratagus/wiki/Highgrounds-support
+[Wiki: Highgrounds support](https://github.com/Wargus/stratagus/wiki/Highgrounds-support)
 
 ---
 
@@ -119,14 +121,14 @@ https://github.com/Wargus/stratagus/wiki/Highgrounds-support
 - UI и интеграция  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/732  
-- https://github.com/Wargus/wargus/pull/488  
+- [Stratagus PR #732](https://github.com/Wargus/stratagus/pull/732)  
+- [Wargus PR #488](https://github.com/Wargus/wargus/pull/488)  
 
 (90+ коммитов, изменено ~5800 строк кода)  
 
 Дополнительно:
 - Составил документацию по созданию и использованию кистей:  
-https://github.com/Wargus/stratagus/wiki/Editor:-Brushes
+[Wiki: Editor Brushes](https://github.com/Wargus/stratagus/wiki/Editor:-Brushes)
 
 ---
 
@@ -137,12 +139,12 @@ https://github.com/Wargus/stratagus/wiki/Editor:-Brushes
 - поведение уровня современных RTS  
 
 PR:
-- https://github.com/Wargus/stratagus/pull/271  
+- [Stratagus PR #271](https://github.com/Wargus/stratagus/pull/271)  
 
 ---
 
 ### Изолированная среда выполнения Lua (2026)
-https://github.com/ipochto/luaSandboxes  
+[luaSandboxes (GitHub)](https://github.com/ipochto/luaSandboxes)  
 
 Библиотека для безопасного выполнения недоверенных Lua-скриптов:
 
@@ -158,12 +160,12 @@ https://github.com/ipochto/luaSandboxes
 
 Дополнительно:
 - Архитектуру подробно описал в цикле технических статей (Habr):  
-  https://habr.com/ru/users/alyokhin/articles
+  [Habr: статьи](https://habr.com/ru/users/alyokhin/articles)
 
 ---
 
 ### Утилита Akhenaten TTS (2026)
-https://github.com/ipochto/akhenaten-tts  
+[akhenaten-tts (GitHub)](https://github.com/ipochto/akhenaten-tts)  
 
 CLI-инструмент генерации речи:
 
@@ -198,10 +200,10 @@ CLI-инструмент генерации речи:
 ## Вклад в проекты с открытым исходным кодом
 
 - Контрибуция в CMake (merge request):  
-  https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635  
+  [CMake MR !10635](https://gitlab.kitware.com/cmake/cmake/-/merge_requests/10635)  
 
 - Мейнтейнер пакетов в Arch Linux (AUR):  
-  https://aur.archlinux.org/packages?O=0&SeB=m&K=ipochto  
+  [AUR: пакеты](https://aur.archlinux.org/packages?O=0&SeB=m&K=ipochto)  
   (сборка, сопровождение, управление зависимостями)
 
 ---
