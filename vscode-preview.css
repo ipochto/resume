@@ -1,0 +1,200 @@
+/* Approximation of VSCode markdown preview (light theme) */
+
+:root {
+  --fg: #1f2328;
+  --bg: #ffffff;
+  --link: #4078c0;
+  --muted: #59636e;
+  --rule: #d0d7de;
+  --code-bg: #f3f4f6;
+  --content-indent: 0.35em;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Segoe WPC", "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+body {
+  max-width: 914px;
+  margin: 0 auto;
+  padding: 0 26px;
+  word-wrap: break-word;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.2em;
+  margin-bottom: 0.45em;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.12em;
+}
+
+h2,
+h3,
+h4 {
+  margin-bottom: 0.7em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.7em;
+}
+
+p,
+ul,
+ol,
+blockquote,
+pre,
+table {
+  margin-left: var(--content-indent);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--rule);
+  margin: 14px 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0.7em;
+  padding-left: 1.9em;
+}
+
+li {
+  padding-left: 0.15em;
+}
+
+li + li {
+  margin-top: 0.08em;
+}
+
+blockquote {
+  margin: 1em 0;
+  padding: 0 1em;
+  border-left: 4px solid var(--rule);
+  color: var(--muted);
+}
+
+code {
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.9em;
+  background: var(--code-bg);
+  border-radius: 3px;
+  padding: 0.15em 0.35em;
+}
+
+pre {
+  background: var(--code-bg);
+  border-radius: 6px;
+  padding: 12px 14px;
+  overflow-x: auto;
+}
+
+pre code {
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
+  font-size: 0.88em;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+th,
+td {
+  border: 1px solid var(--rule);
+  padding: 6px 10px;
+}
+
+th {
+  font-weight: 600;
+}
+
+@page {
+  size: A4;
+  margin: 18mm 16mm;
+}
+
+@media print {
+  body {
+    max-width: none;
+    padding: 0;
+    font-size: 10.5pt;
+    line-height: 1.35;
+  }
+
+  h1 {
+    font-size: 16pt;
+  }
+
+  h2 {
+    font-size: 13pt;
+  }
+
+  h3 {
+    font-size: 11.5pt;
+  }
+
+  h2,
+  h3,
+  h4 {
+    margin-bottom: 0.65em;
+  }
+
+  p,
+  ul,
+  ol {
+    margin-bottom: 0.5em;
+  }
+
+  p,
+  ul,
+  ol,
+  blockquote,
+  pre,
+  table {
+    margin-left: 0.45em;
+  }
+
+  ul,
+  ol {
+    padding-left: 2.1em;
+  }
+}
